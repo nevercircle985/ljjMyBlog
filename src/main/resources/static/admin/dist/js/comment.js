@@ -11,7 +11,7 @@ $(function () {
             {label: '状态', name: 'commentStatus', index: 'commentStatus', width: 60, formatter: statusFormatter},
             {label: '回复内容', name: 'replyBody', index: 'replyBody', width: 120},
         ],
-        height: 700,
+        height: 650,
         rowNum: 10,
         rowList: [5,10, 20, 50],
         styleUI: 'Bootstrap',

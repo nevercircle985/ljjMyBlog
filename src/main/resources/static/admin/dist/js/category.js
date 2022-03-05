@@ -5,7 +5,7 @@ $(function () {
         colModel: [
             {label: 'id', name: 'categoryId', index: 'categoryId', width: 50, key: true, hidden: true},
             {label: '分类名称', name: 'categoryName', index: 'categoryName', width: 240},
-            {label: '分类图标', name: 'categoryIcon', index: 'categoryIcon', width: 120, formatter: imgFormatter},
+            {label: '分类图标', name: 'categoryIcon', index: 'categoryIcon', width: 100, formatter: imgFormatter},
             {label: '添加时间', name: 'createTime', index: 'createTime', width: 120}
         ],
         height: 560,
