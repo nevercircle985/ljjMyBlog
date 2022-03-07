@@ -11,7 +11,7 @@ $(function () {
             {label: '博客分类', name: 'blogCategoryName', index: 'blogCategoryName', width: 60},
             {label: '添加时间', name: 'createTime', index: 'createTime', width: 90}
         ],
-        height: 600,
+        height: 400,
         rowNum: 10,
         rowList: [10, 20, 50],
         styleUI: 'Bootstrap',

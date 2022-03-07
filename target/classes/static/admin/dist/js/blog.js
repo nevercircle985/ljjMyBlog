@@ -9,9 +9,9 @@ $(function () {
             {label: '浏览量', name: 'blogViews', index: 'blogViews', width: 60},
             {label: '状态', name: 'blogStatus', index: 'blogStatus', width: 60, formatter: statusFormatter},
             {label: '博客分类', name: 'blogCategoryName', index: 'blogCategoryName', width: 60},
-            //{label: '添加时间', name: 'createTime', index: 'createTime', width: 90}
+            {label: '添加时间', name: 'createTime', index: 'createTime', width: 90}
         ],
-        height: 600,
+        height: 400,
         rowNum: 10,
         rowList: [10, 20, 50],
         styleUI: 'Bootstrap',
