@@ -6,7 +6,7 @@ import com.ljj.service.BlogService;
 import com.ljj.service.CategoryService;
 import com.ljj.util.MyBlogUtils;
 import com.ljj.util.PageQueryUtil;
-import com.ljj.util.Result;
+import com.ljj.pojo.Result;
 import com.ljj.util.ResultGenerator;
 import org.springframework.stereotype.Controller;
 import org.springframework.util.StringUtils;

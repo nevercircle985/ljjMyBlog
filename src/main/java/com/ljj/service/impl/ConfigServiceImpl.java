@@ -24,12 +24,12 @@ public class ConfigServiceImpl implements ConfigService {
     public static final String websiteIcon = "/admin/dist/img/favicon.png";
 
     public static final String yourAvatar = "/admin/dist/img/13.png";
-    public static final String yourEmail = "info@atguigu.com";
-    public static final String yourName = "guigu";
+    public static final String yourEmail = "1418587917@qq.com";
+    public static final String yourName = "jiujiu";
 
     public static final String footerAbout = "your personal blog. have fun.";
     public static final String footerICP = "ICP 京ICP备13018369号";
-    public static final String footerCopyRight = "@2020 guigu";
+    public static final String footerCopyRight = "@2022 guigu";
     public static final String footerPoweredBy = "personal blog";
     public static final String footerPoweredByURL = "##";
 

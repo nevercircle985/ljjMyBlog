@@ -18,6 +18,7 @@
     <link rel="stylesheet" th:href="@{/blog/yummy-jekyll/plugins/hover/css/hover-min.css}">
     <link rel="stylesheet" th:href="@{/blog/yummy-jekyll/plugins/primer-markdown/dist/user-content.min.css}">
     <link rel="stylesheet" th:href="@{/blog/yummy-jekyll/assets/css/syntax.css}">
+    <link rel="stylesheet" th:href="@{/admin/dist/css/font-awesome.min.css}">
     <!-- My CSS -->
     <link rel="stylesheet" th:href="@{/blog/yummy-jekyll/assets/css/common.css}">
     <!-- CSS set in page -->
@@ -47,9 +48,12 @@
             <a th:href="@{/about}" class=" site-header-nav-item hvr-underline-from-center">
                 关于
             </a>
-            <a href="https://github.com/nevercircle985" class=" site-header-nav-item hvr-underline-from-center" target="_blank">
+            <a th:href="@{https://github.com/nevercircle985}" class=" site-header-nav-item hvr-underline-from-center" target="_blank">
                 GitHub
             </a>
+            <a th:href="@{/admin}" class=" site-header-nav-item hvr-underline-from-center">
+            后台
+        </a>
         </nav>
     </div>
 </header>

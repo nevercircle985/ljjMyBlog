@@ -1,5 +1,6 @@
 package com.ljj.util;
 
+import com.ljj.pojo.Result;
 import org.springframework.util.StringUtils;
 
 

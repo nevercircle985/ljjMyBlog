@@ -3,7 +3,7 @@ package com.ljj.controller.admin;
 import com.ljj.pojo.BlogLink;
 import com.ljj.service.LinkService;
 import com.ljj.util.PageQueryUtil;
-import com.ljj.util.Result;
+import com.ljj.pojo.Result;
 import com.ljj.util.ResultGenerator;
 import org.springframework.stereotype.Controller;
 import org.springframework.util.StringUtils;

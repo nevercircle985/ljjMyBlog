@@ -4,10 +4,12 @@ C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\dao\BlogL
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\pojo\BlogTag.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\config\AdminLoginInterceptor.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\controller\common\CommonController.java
+C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\config\KaptchaConfig.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\controller\common\ErrorPageController.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\service\impl\CommentServiceImpl.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\controller\blog\MyblogController.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\pojo\Blog.java
+C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\pojo\Result.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\util\ResultGenerator.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\controller\admin\AdminController.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\dao\BlogConfigMapper.java
@@ -15,7 +17,6 @@ C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\dao\BlogT
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\pojo\BlogLink.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\controller\vo\SimpleBlogListVO.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\pojo\BlogCategory.java
-C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\config\Constants.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\service\impl\LinkServiceImpl.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\controller\admin\TagController.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\controller\admin\CommentController.java
@@ -24,7 +25,6 @@ C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\dao\BlogM
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\util\PageResult.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\pojo\BlogTagCount.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\BlogWebApplication.java
-C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\controller\common\KaptchaConfig.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\pojo\BlogComment.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\util\MyBlogUtils.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\util\MarkDownUtil.java
@@ -45,7 +45,6 @@ C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\dao\Admin
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\service\LinkService.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\service\impl\BlogServiceimpl.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\service\impl\TagServiceImpl.java
-C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\util\Result.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\util\MD5Util.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\dao\BlogCommentMapper.java
 C:\Workspace\毕业资料\毕业设计\LjjMyBlog\src\main\java\com\ljj\controller\admin\ConfigurationController.java

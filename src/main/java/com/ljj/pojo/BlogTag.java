@@ -58,5 +58,6 @@ public class BlogTag {
         sb.append(", createTime=").append(createTime);
         sb.append("]");
         return sb.toString();
+
     }
 }

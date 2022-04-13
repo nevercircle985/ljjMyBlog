@@ -3,6 +3,7 @@ package com.ljj.controller.blog;
 import com.ljj.controller.vo.BlogDetailVO;
 import com.ljj.pojo.BlogComment;
 import com.ljj.pojo.BlogLink;
+import com.ljj.pojo.Result;
 import com.ljj.service.*;
 import com.ljj.util.*;
 import org.springframework.stereotype.Controller;
